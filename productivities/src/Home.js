@@ -1,11 +1,11 @@
 import React from 'react';
 
-const GoalItem = () => {
+const Home = () => {
     return (
         <div>
-            
+            <h1>Home Page</h1>
         </div>
     );
 };
 
-export default GoalItem;
+export default Home;
